@@ -10,6 +10,7 @@ function Globalbatches() {
         <div>
             <Head>
                 <title>Upcoming Excel and VBA Pages</title>
+                <meta name="robots" content="noindex" />
             </Head>
             <Topnav></Topnav>
             <Container fluid>

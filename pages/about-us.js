@@ -9,7 +9,7 @@ function About() {
         <div>
             <Head>
                 <title>About Us</title>
-                 
+                <meta name="robots" content="noindex" />
             </Head>
 
             <Topnav></Topnav>
