@@ -15,7 +15,7 @@ function Globalbatches() {
             <Topnav></Topnav>
             <Container fluid>
                 <Row>
-                    <Col>
+                    <Col className={"Table-responsive"}>
                         <Table striped bordered hover size="sm" className={styles.upcomingschedule}>
                             <thead>
                                 <tr>

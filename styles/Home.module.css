@@ -35,12 +35,13 @@
   .footer ul li{color: #fff; font-size: 12px; font-family: verdana; line-height: 25px;}
   .about_ustxt{font-family: verdana; font-size: 17px; color: #3a3939; line-height: 30px;}
   .upcomingschedule{margin-top: 30px;}
+  .upcomingschedule thead th{min-width: 190px;}
   .upcomingschedule tbody tr td{font-size: 13px; font-family: verdana; vertical-align: middle; padding: .9rem;}
   .upcomingschedule tbody tr td img{width: 24px; height: 24px; margin-right: 10px; top: -2px; position: relative;}
   .upcomingschedule tbody  tr td a{background: #5cb85c;   color: #fff;   padding: 9px;   border-radius: 5px;}
   .navbar-brand img{width: 280px; height: 58px;}
   .headertxt{font-size: 17px; color: #fff !important;}
-  .headertxt:hover{background: #525252; color: #fff !important; border-radius: 7px;}
+  .headertxt:hover{background: #525252; color: #fff !important;}
   .top_logo{width: 280px; float: left;}
   .subheader_rightsec{list-style: none; display: flex; align-items: center; justify-content: flex-end;}
   .navbar{margin-bottom: 30px;}
@@ -118,4 +119,14 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
   
    @media only screen and (max-width:476px){
     .about_trainer{display: block;}
+    h3.top_generic_headvba{font-size: 21px;}
+    p.top_generic_para{font-size: 12px;}
+    .crs_fee{float: none; margin-top: 70px;}
+    .psttraining{ float: none; margin-top: 70px; margin-top: 70px;}
    }
+
+   @media only screen and (max-width:767px){
+    .subheadergp{display: none;}
+   }
+
+   
