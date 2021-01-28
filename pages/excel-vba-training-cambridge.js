@@ -67,8 +67,12 @@ function Excelcambridge() {
                     <Col md={4} lg={4} sm={4}>
                       <ETschedule></ETschedule>
                     </Col>
-                    <Col md={4} lg={4} sm={4}>
-                       <ContactET></ContactET>
+                    <Col md={8} lg={8} sm={8}> 
+                        <div className={styles.certi_container}>
+                           <h3>Live VBA Project</h3>
+                           <p>We believe firmly in result-oriented Automation training. Hence, the learning at Excelgoodies doesn't stop just with the Classroom sessions. Post the Training; you will be offered an opportunity to take up a live VBA project from your company and implement all the concepts learned in real-time.</p>
+                           <p>You will also be honored with the "Report Automation Specialist" Certificate on saving at least 2 hours of work per day.</p>
+                        </div>
                     </Col>
                     
                 </Row>
