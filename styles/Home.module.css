@@ -120,6 +120,7 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
   .contactus_container p span{margin-left: 5px;}
   .certi_container{ display: flex; justify-content: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right;}
   .certi_container h3{font-size: 20px; font-family: verdana; margin-bottom: 20px;}
+  .certi_container p{font-family: verdana; font-size:13px; line-height: 25px;}
    @media only screen and (max-width:476px){
     .about_trainer{display: block;}
     h3.top_generic_headvba{font-size: 21px;}
