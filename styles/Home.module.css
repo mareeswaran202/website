@@ -127,7 +127,8 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
     p.top_generic_para{font-size: 12px;}
     .crs_fee{float: none; margin-top: 70px;}
     .psttraining{ float: none; margin-top: 70px; margin-top: 70px;}
-    .crs_fee .spn2{font-size-adjust: .9rem;}
+    .crs_fee .spn2{font-size: .9rem;}
+    .certi_container{margin-top: 70px;}
    }
 
    @media only screen and (max-width:767px){
