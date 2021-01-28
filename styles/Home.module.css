@@ -129,5 +129,9 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
    @media only screen and (max-width:767px){
     .subheadergp{display: none;}
    }
+   @media only screen and (max-width:991px){
+    .crs_fee{float: none; margin-top: 30px;}
+    .psttraining{ float: none; margin-top: 30px;}
+   }
 
    
