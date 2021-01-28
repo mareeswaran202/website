@@ -9,7 +9,7 @@ import Posttraining from '../components/Posttraining';
 import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
 import Head from 'next/head'
-import ContactET from '../components/Contactus-PT';
+import ContactPT from '../components/Contactus-PT';
 import PTschedule from '../components/Trainingschedule-PT'
 
 function Excelcambridge() {
@@ -65,10 +65,10 @@ function Excelcambridge() {
                 </Row>
                 <Row>
                     <Col md={6} lg={6} sm={6}>
-                      <ETschedule></ETschedule>
+                      <PTschedule></PTschedule>
                     </Col>
                     <Col md={6} lg={6} sm={6}>
-                       <ContactET></ContactET>
+                       <ContactPT></ContactPT>
                     </Col>
                 </Row>
             </Container>
