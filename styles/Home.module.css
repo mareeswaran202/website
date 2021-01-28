@@ -40,7 +40,7 @@
   .upcomingschedule tbody  tr td a{background: #5cb85c;   color: #fff;   padding: 9px;   border-radius: 5px;}
   .navbar-brand img{width: 280px; height: 58px;}
   .headertxt{font-size: 17px; color: #fff !important;}
-  .headertxt:hover{background: #f99f1c; color: #fff !important; border-radius: 7px;}
+  .headertxt:hover{background: #525252; color: #fff !important; border-radius: 7px;}
   .top_logo{width: 280px; float: left;}
   .subheader_rightsec{list-style: none; display: flex; align-items: center; justify-content: flex-end;}
   .navbar{margin-bottom: 30px;}
