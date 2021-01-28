@@ -36,7 +36,7 @@
   .about_ustxt{font-family: verdana; font-size: 17px; color: #3a3939; line-height: 30px;}
   .upcomingschedule{margin-top: 30px;}
   .upcomingschedule thead th{min-width: 190px;}
-  .upcomingschedule tbody tr td{font-size: 12px !important; font-family: verdana; vertical-align: middle !important; padding: .4rem;}
+  .upcomingschedule tbody tr td{font-size: 13px; font-family: verdana; vertical-align: middle; padding: .9rem;}
   .upcomingschedule tbody tr td img{width: 24px; height: 24px; margin-right: 10px; top: -2px; position: relative;}
   .upcomingschedule tbody  tr td a{background: #5cb85c;   color: #fff;   padding: 9px;   border-radius: 5px;}
   .navbar-brand img{width: 280px; height: 58px;}
@@ -110,6 +110,7 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
   .crs_header button{color: #00b0f0;}
   .crd{border:1px solid  #eaf7ea;}
   .training_tbl{border: 1px solid #dee2e6;}
+  .training_tbl tr td{font-family: verdana; font-size:12px; vertical-align: middle; padding: .4rem;}
   .contactus_container{ display: flex; justify-content: center; align-items: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right;}
   .contactus_container h3{font-size: 20px; font-family: verdana; margin-bottom: 20px;}
   .contactus_container p{font-family: verdana; font-size: 13px; color: #3b3a39; margin: 0px; margin-bottom: 5px;}
