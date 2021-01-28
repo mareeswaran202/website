@@ -9,7 +9,7 @@ function Topnav() {
       
       <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
-      <Link href="/" passHref><Navbar.Brand>Home</Navbar.Brand></Link>
+      <Link href="/" passHref><Navbar.Brand>Excel<span>g</span>oodies</Navbar.Brand></Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
