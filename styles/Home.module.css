@@ -1,0 +1,121 @@
+.bannercontainer{padding: 0px !important;}
+.bannercontainer img{width: 100%;}
+.topmainheading{margin: 60px 0px; text-align: center;}
+.topmainheading h3{font-size: 30px; color: #00585F; letter-spacing: 1px;}
+.topmainheading p{font-size: 16px; color: #3b3a39; letter-spacing: 1px;}
+.coursecard{border: none;
+   text-align: center; 
+   padding: 30px;
+   box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+   border-radius: 10px; padding: 30px 15px; 
+   margin-bottom: 50px;
+
+}
+.coursecard img{width: 90px; height: 90px; display: block; margin: auto;}
+.coursecard h3{font-size: 18px;   font-family: verdana;  margin: 25px 0px;  color: #00585F;}
+.coursecard p{font-family: verdana;  font-size: 14px;  line-height: 25px;  color: #363636;}
+.coursecard a{background: rgb(0, 86, 210);
+  border: none;
+  border-radius: 4px;
+  display: inline-block;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+  padding: 12px 32px;
+  text-align: center;
+  transition: background-color 250ms ease-out 0s, box-shadow 250ms ease-out 0s, color 250ms ease-out 0s;
+  text-decoration: none;
+  color: rgb(255, 255, 255); width: 160px; margin: 0 auto; margin-top: 20px;}
+
+
+  .footer{background-color: #36383D !important; margin-top: 50px;}
+  .footer h3{color: #35C462; font-family: verdana; font-size: 16px;}
+  .footer ul{list-style: none; padding: 0px;}
+  .footer ul li{color: #fff; font-size: 12px; font-family: verdana; line-height: 25px;}
+  .about_ustxt{font-family: verdana; font-size: 17px; color: #3a3939; line-height: 30px;}
+  .upcomingschedule{margin-top: 30px;}
+  .upcomingschedule tbody tr td{font-size: 13px; font-family: verdana; vertical-align: middle; padding: .9rem;}
+  .upcomingschedule tbody tr td img{width: 24px; height: 24px; margin-right: 10px; top: -2px; position: relative;}
+  .upcomingschedule tbody  tr td a{background: #5cb85c;   color: #fff;   padding: 9px;   border-radius: 5px;}
+  .navbar-brand img{width: 280px; height: 58px;}
+  .headertxt{font-size: 17px; color: #fff !important;}
+  .headertxt:hover{background: #f99f1c; color: #fff !important; border-radius: 7px;}
+  .top_logo{width: 280px; float: left;}
+  .subheader_rightsec{list-style: none; display: flex; align-items: center; justify-content: flex-end;}
+  .navbar{margin-bottom: 30px;}
+  .phone_nosfont{font-family: Helvetica Neue,Helvetica,Arial,sans-serif;     font-size: 18px;    color: #080808; margin-left: 5px; margin-right: 10px;}
+
+
+
+  .crs_fee{display: flex; justify-content: center; align-items: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right;}
+  .courseoverview_main{display: flex; width: 100%; margin-bottom: 1.5rem;}
+  .courseoverview_detail{display: flex; flex-direction: column;}
+  .crs_fee .spn1{font-size: .9rem; color: #6e767f;}
+  .crs_fee .spn2{font-size: 1rem; font-weight: bold; color: #373a3c;}
+  .courseoverview_icon{width: 44px; height: 44px; border-radius: 50%; border: 2px solid rgb(225, 225, 225); display: flex; justify-content: center; align-items: center; margin-right: .5rem;}
+  .enrll_btncnt{width:100%; text-align:center;}
+  .enrll_btn{border: 1px solid #f99f1c; background: #f99f1c;  color: #fff;   padding:5px;    width: 100%;    display: block;    text-align: center;     border-radius: 0px;    font-size: 1.2rem; font-family: calibri; font-weight: bold;}
+  .enrll_btn:hover{color: #fff; text-decoration: none;}
+  .enrll_btncnt a{display: block;}
+  .talktothetrainer{ background: #ececec;   padding: 20px;   border-radius: 5px;}
+  .schedulecalltxt{color: #f19004; display: block; text-decoration: underline !important;}
+  .schedulecalltxt:hover{color: #f19004;  text-decoration: underline !important;}
+  .subheader_rightsec{list-style: none; display: flex; align-items: center; justify-content: flex-end;}
+.top_logo{width: 280px; float: left;}
+/* .jumbotron{background-image: url(./images/main-banner.jpg); background-repeat: no-repeat; background-position: center;} */
+h3.top_generic_headvba{margin: 0;  padding: 0; font-size: 24px;  color: #00585F;  line-height: 35px;}
+p.top_generic_para{margin: 0; padding-top: 5px;font-family: verdana; font-size: 15px;  color: #3b3a39;  line-height: 25px;}
+p.top_para1{margin: 0; padding-top: 35px;  font-family: verdana;  font-size: 13px;  color: #333333;  line-height: 25px;}
+p.top_parasub{font-family: Verdana;  font-size: 13px;  color: #333333;  line-height: 25px;  padding-top: 23px;}
+p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13px;  color: #4f4e4d;  line-height: 25px;}
+
+.sectiongp{margin-top: 70px; margin-bottom: 20px;}
+  .psttraining{display: flex; justify-content: center; align-items: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right; width: 350px;}
+  .psttraining h3{font-family: verdana;     font-size: 20px;    line-height: 30px;}
+  .psttraining ol{padding: 15px;}
+  .psttraining ol li{font-family: verdana;  font-size: 14px;    margin-bottom: 10px;    line-height: 23px;}
+  .subheadergp{margin-top: 20px;}
+  .top_menu_pad{padding: 0px !important;}
+
+  .about_trainer{background: #fbfbfb; padding: 20px; display: inherit;}
+  .about_trainer p{font-size: 14px;}
+  .about_trainersub{font-size:13px;}
+  .about_trainersub span{color: #afafaa;}
+
+  .about_trainer h3{font-size:17px; margin-bottom: 2px;}
+
+  .collhgt{height: 320px; overflow-y: scroll;}
+  .collhgt b{text-transform: uppercase;
+    color: #000000;
+    margin: 0px 0px 12px 0px;
+    font-weight: 700;
+    font-size: 11px;   
+    display: block;
+    font-family: Verdana;
+}
+.collhgt .crse_lst{padding-top: 10px;
+  padding-bottom: 10px;
+}
+.collhgt .crse_lst li{line-height: 25px;
+  margin: 0px;
+  color: #4a4a4a;
+  font-family: Verdana;
+  font-size: 12px;}
+  .innersectionheader{font-size: 20px; font-family: verdana;}
+  .certificate_con{display: flex; justify-content: center; align-items: center;}
+  .certificate_con img{margin: 15px;}
+  .crs_header{background: #eaf7ea;}
+  .crs_header button{color: #00b0f0;}
+  .crd{border:1px solid  #eaf7ea;}
+  .training_tbl{border: 1px solid #dee2e6;}
+  .contactus_container{ float: right;}
+  .contactus_container h3{font-size: 20px; font-family: verdana; margin-bottom: 20px;}
+  .contactus_container p{font-family: verdana; font-size: 13px; color: #3b3a39; margin: 0px; margin-bottom: 5px;}
+  .contactus_container img{width: 22px; height: 22px;}
+  .contactus_container h6{margin-top: 15px; margin-bottom: 10px; font-family: verdana; font-size: 13px; color: #3b3a39; font-weight: bold;}
+  .contactus_container p span{margin-left: 5px;}
+  
+   @media only screen and (max-width:476px){
+    .about_trainer{display: block;}
+   }
