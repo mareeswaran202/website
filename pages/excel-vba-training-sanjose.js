@@ -8,12 +8,17 @@ import Coursecontent from '../components/Coursedetails';
 import Posttraining from '../components/Posttraining';
 import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
+import Head from 'next/head'
 
 function Excelcambridge() {
     return (
 
 
         <div>
+            <Head>
+                <title>Excel VBA Training in Sanjose</title>
+                <meta name="robots" content="noindex" />
+            </Head>
             <Topnav></Topnav>
           <Subheader></Subheader>
             <Container className="mt-5">

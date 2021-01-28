@@ -15,7 +15,7 @@ function Topnav() {
         <Nav className="ml-auto">
           <Link href="/about-us" passHref><Nav.Link className={styles.headertxt}>About us</Nav.Link></Link>
           <Link href="/worldwide-excel-training" passHref><Nav.Link className={styles.headertxt}>Upcoming Batches</Nav.Link></Link>
-          <Link href="/contact-us" passHref><Nav.Link className={styles.headertxt}>Contact us</Nav.Link></Link>
+          {/* <Link href="/contact-us" passHref><Nav.Link className={styles.headertxt}>Contact us</Nav.Link></Link> */}
 
 
         </Nav>

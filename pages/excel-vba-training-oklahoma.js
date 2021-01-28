@@ -10,10 +10,16 @@ import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
 import ETschedule from '../components/Trainingschedule-ET';
 import ContactET from '../components/Contactus-ET';
+import Head from 'next/head'
+
 
 function Oklahomavba(){
    return(
     <div>
+        <Head>
+                <title>Excel VBA Training in Oklahoma</title>
+                <meta name="robots" content="noindex" />
+            </Head>
     <Topnav></Topnav>
   <Subheaderct></Subheaderct>
     <Container className="mt-5">

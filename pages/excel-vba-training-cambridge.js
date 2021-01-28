@@ -10,12 +10,17 @@ import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
 import ETschedule from '../components/Trainingschedule-ET';
 import ContactET from '../components/Contactus-ET';
+import Head from 'next/head';
 
 function Excelcambridge() {
     return (
 
 
         <div>
+            <Head>
+                <title>Excel VBA Training in Cambridge</title>
+                <meta name="robots" content="noindex" />
+            </Head>
             <Topnav></Topnav>
           <Subheader></Subheader>
             <Container className="mt-5">
