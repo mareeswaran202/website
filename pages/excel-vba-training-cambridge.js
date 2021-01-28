@@ -64,10 +64,13 @@ function Excelcambridge() {
                     <Col><h3 className={styles.innersectionheader}>Training Schedule</h3></Col>
                 </Row>
                 <Row>
-                    <Col md={6} lg={6} sm={6}>
+                    <Col md={4} lg={4} sm={4}>
                       <ETschedule></ETschedule>
                     </Col>
-                    <Col md={6} lg={6} sm={6}>
+                    <Col md={4} lg={4} sm={4}>
+                       <ContactET></ContactET>
+                    </Col>
+                    <Col md={4} lg={4} sm={4}>
                        <ContactET></ContactET>
                     </Col>
                 </Row>
