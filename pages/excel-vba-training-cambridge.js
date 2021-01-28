@@ -70,13 +70,7 @@ function Excelcambridge() {
                     <Col md={4} lg={4} sm={4}>
                        <ContactET></ContactET>
                     </Col>
-                    <Col md={4} lg={4} sm={4}>
-                       <div className={styles.certi_container}>
-                       <h3>Certifications</h3>
-                       <a href="">Report Automation Specialist</a>
-                       <a href="">Microsoft Excel Expert (MEE)</a>
-                       </div>
-                    </Col>
+                    
                 </Row>
             </Container>
             
