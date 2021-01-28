@@ -8,7 +8,7 @@ export default function Home() {
      <div>
       <Head>
         <title>Excelgoodies</title>
-        import Head from 'next/head'
+        <meta name="robots" content="noindex" />
       </Head>
       <Topnav></Topnav>
        <Container fluid>
