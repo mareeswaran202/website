@@ -110,14 +110,16 @@ p.top_para_new{margin: 0; padding-top: 15px; font-family: verdana; font-size: 13
   .crs_header button{color: #00b0f0;}
   .crd{border:1px solid  #eaf7ea;}
   .training_tbl{border: 1px solid #dee2e6;}
-  .training_tbl td{font-family: verdana; font-size:12px; vertical-align: middle; padding: .4rem;}
-  .contactus_container{ display: flex; justify-content: center; align-items: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right;}
+  .training_tbl th{text-align: center; background: #eae6e6; padding: .45rem;}
+  .training_tbl td{font-family: verdana; font-size:12px; vertical-align: middle; padding: .4rem; text-align: center;}
+  .contactus_container{ display: flex; justify-content: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px;}
   .contactus_container h3{font-size: 20px; font-family: verdana; margin-bottom: 20px;}
   .contactus_container p{font-family: verdana; font-size: 13px; color: #3b3a39; margin: 0px; margin-bottom: 5px;}
   .contactus_container img{width: 22px; height: 22px;}
   .contactus_container h6{margin-top: 15px; margin-bottom: 10px; font-family: verdana; font-size: 13px; color: #3b3a39; font-weight: bold;}
   .contactus_container p span{margin-left: 5px;}
-  
+  .certi_container{ display: flex; justify-content: center; flex-direction: column; box-shadow:0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08); border-radius: 10px; padding: 30px 15px; float: right;}
+  .certi_container h3{font-size: 20px; font-family: verdana; margin-bottom: 20px;}
    @media only screen and (max-width:476px){
     .about_trainer{display: block;}
     h3.top_generic_headvba{font-size: 21px;}
