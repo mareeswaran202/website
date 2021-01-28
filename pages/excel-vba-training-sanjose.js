@@ -9,6 +9,8 @@ import Posttraining from '../components/Posttraining';
 import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
 import Head from 'next/head'
+import ContactET from '../components/Contactus-PT';
+import PTschedule from '../components/Trainingschedule-PT'
 
 function Excelcambridge() {
     return (
@@ -57,6 +59,17 @@ function Excelcambridge() {
                         <img src="/images/Exam-778-UPDATED.png"></img>
                     </Col>
                     </div>
+                </Row>
+                <Row className={styles.sectiongp}>
+                    <Col><h3 className={styles.innersectionheader}>Training Schedule</h3></Col>
+                </Row>
+                <Row>
+                    <Col md={6} lg={6} sm={6}>
+                      <ETschedule></ETschedule>
+                    </Col>
+                    <Col md={6} lg={6} sm={6}>
+                       <ContactET></ContactET>
+                    </Col>
                 </Row>
             </Container>
             

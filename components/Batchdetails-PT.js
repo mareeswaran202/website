@@ -10,7 +10,7 @@ function ETbatchdetails(){
            </div>
            <div className={styles.courseoverview_detail}>
              <span className={styles.spn1}>Batch Starts On</span>
-             <span className={styles.spn2}>Tuesday, 20 January</span>
+             <span className={styles.spn2}>Tuesday, 16 March</span>
            </div>
         </div>
         <div className={styles.courseoverview_main}>
