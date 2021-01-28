@@ -36,7 +36,7 @@
   .about_ustxt{font-family: verdana; font-size: 17px; color: #3a3939; line-height: 30px;}
   .upcomingschedule{margin-top: 30px;}
   .upcomingschedule thead th{min-width: 190px;}
-  .upcomingschedule tbody tr td{font-size: 13px; font-family: verdana; vertical-align: middle; padding: .9rem;}
+  .upcomingschedule tbody tr td{font-size: 12px !important; font-family: verdana; vertical-align: middle !important; padding: .4rem;}
   .upcomingschedule tbody tr td img{width: 24px; height: 24px; margin-right: 10px; top: -2px; position: relative;}
   .upcomingschedule tbody  tr td a{background: #5cb85c;   color: #fff;   padding: 9px;   border-radius: 5px;}
   .navbar-brand img{width: 280px; height: 58px;}
