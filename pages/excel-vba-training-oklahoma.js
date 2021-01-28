@@ -3,13 +3,13 @@ import { Container, Row, Col } from 'react-bootstrap'
 import Topnav from '../components/Topnavbar';
 import Subheaderct from '../components/sub-header-CT';
 import Card from '../components/Card';
-import ETbatchdetails from '../components/Batchdetails-ET';
+import CTbatchdetails from '../components/Batchdetails-CT';
 import Coursecontent from '../components/Coursedetails';
 import Posttraining from '../components/Posttraining';
 import Footer from '../components/Footer';
 import styles from '../styles/Home.module.css';
-import ETschedule from '../components/Trainingschedule-ET';
-import ContactET from '../components/Contactus-ET';
+import CTschedule from '../components/Trainingschedule-CT';
+import ContactCT from '../components/Contactus-CT';
 import Head from 'next/head'
 
 
@@ -29,7 +29,7 @@ function Oklahomavba(){
                 <Card></Card>
             </Col>
             <Col lg={5}>
-                <ETbatchdetails></ETbatchdetails>
+                <CTbatchdetails></CTbatchdetails>
             </Col>
         </Row>
         <Row className={styles.sectiongp}>
@@ -64,10 +64,10 @@ function Oklahomavba(){
         </Row>
         <Row>
             <Col md={6} lg={6} sm={6}>
-              <ETschedule></ETschedule>
+              <CTschedule></CTschedule>
             </Col>
             <Col md={6} lg={6} sm={6}>
-               <ContactET></ContactET>
+               <ContactCT></ContactCT>
             </Col>
         </Row>
     </Container>
