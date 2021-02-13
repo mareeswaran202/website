@@ -11,7 +11,7 @@ function Footer(){
                <h3>Excel Courses</h3>
                <ul>
                    <li>Excel Training Chennai---</li>
-                   <li>Excel Training Hyderabad</li>
+                   <li>Excel Training Hyderabad---</li>
                    <li>Excel Training Pune</li>
                    <li>Excel Training Coimbatore</li>
                    <li>Excel Training Sanjose</li>
