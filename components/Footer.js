@@ -10,7 +10,7 @@ function Footer(){
              <Col col sm={6} lg={4}>
                <h3>Excel Courses</h3>
                <ul>
-                   <li>Excel Training Chennai</li>
+                   <li>Excel Training Chennai---</li>
                    <li>Excel Training Hyderabad</li>
                    <li>Excel Training Pune</li>
                    <li>Excel Training Coimbatore</li>
